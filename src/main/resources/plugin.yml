@@ -1,0 +1,6 @@
+name: ${project.name}
+main: mechanicraft.Mechanicraft
+version: ${project.version}
+description: Mechanicraft
+author: cyberpwn
+softdepend: [WorldEdit, AsyncWorldEdit, WorldGuard, FastAsyncWorldEdit, WorldBorder, PlaceholderAPI, ProtocolLib]
